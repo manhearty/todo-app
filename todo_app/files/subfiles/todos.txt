@@ -1,6 +1,4 @@
-Go to Gym
 Get the car.
-Clean the bag and Drawer too
 Fix the Drawer
 Make Soup
 Make Pizza
@@ -9,4 +7,3 @@ Added a Default Param for the function.
 Ride the Bike
 Master Python
 Go for a Tea
-Drink only one Tea
