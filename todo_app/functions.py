@@ -1,4 +1,9 @@
-FILEPATH = "files/subfiles/todos.txt"
+import os
+FILEPATH = "todos.txt"
+
+if not os.path.exists('todos.txt'):
+    with open('todos.txt','w') as file:
+        pass
 
 def get_todos(filepath=FILEPATH):
     """Read a text file and return a list of todos items"""
